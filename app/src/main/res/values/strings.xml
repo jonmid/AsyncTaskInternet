@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTaskInternet</string>
+    <string name="str_btn_1">Cargar datos</string>
+</resources>
